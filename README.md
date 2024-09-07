@@ -2,7 +2,7 @@
 
 In our study, we evaluate the performance of three artificial intelligence (AI) models—Support Vector Machines (SVM), eXtreme Gradient Boosting (XGBoost), and Convolutional Neural Networks (CNN)—in predicting the CPC (C-phycocyanin) concentrations from _Spirulina platensis_ (_S.platensis_) biomass and extracted CPC images. We investigate the variation of input parameters under different image-capturing devices, and lighting conditions to simulate based on real-world scenarios. Results signify that SVM model exhibits R2 values of (0.9304 - 0.9867) and (0.9967 - 0.9981) when using _S.platensis_ biomass and extracted CPC images, respectively. XGBoost model demonstrates higher R2 values of (0.9899 - 0.9968) and (0.9996 - 0.9999) for _S.platensis_ biomass and extracted CPC images, respectively. CNN model managed to achieve R2 values of (0.9769 - 0.9986) and (0.9969 - 0.9991) for _S.platensis_ biomass and extracted CPC images, respectively. To shed light on this, our work suggests the feasibility and efficiency of AI-driven methods for CPC concentration prediction.
 
-**Keywords**: Spirulina platensis; C-phycocyanin; Colour feature; Machine learning (ML); Deep learning (DL)
+**Keywords**: _Spirulina platensis_; C-phycocyanin; Colour feature; Machine learning (ML); Deep learning (DL)
 
 # Folder and files description
 
