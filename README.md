@@ -20,4 +20,8 @@ In our study, we evaluate the performance of three artificial intelligence (AI) 
 
 **Exp_3_Overall_Microalgae_Tabulated_results.xlsx** => Contains all the results tabulated in excel format
 
+# _Spirulina platensis_ biomass & extracted CPC image dataset
+The google drive [https://drive.google.com/drive/folders/1dXDUHCD9nTJaF0CFyxqUkHKZH8Ko1XjF?usp=drive_link] contains the cropped image dataset of _Spirulina platensis_ biomass & extracted CPC grown under BG-11 medium in the period of 12 days. Subsequently, each day will contain a subfolder of both image capturing devices such as smartphone [Iphone_13_Pro_Max] and digital camera [Nikon_Z50]. Each image capturing device will contain a subfolder of covered [images taken without any light disturbances] and light_disturbed [images taken under light disturbed condition]. The experiment is conducted for 3 batches. The image dataset is publicly available for academic and research purposes.
+
 # Referencing and citation
+If you find the prediction and analysis of C-phycocyanin (CPC) concentration as well as the image dataset useful in your research, please consider citing: Based on the DOI: 
