@@ -4,7 +4,7 @@ To be filled later on
 
 **Keywords**: 
 
-# Machine learning, deep learning, & hybrid stacking-ensemble models
+# Machine learning, Deep learning, & Hybrid Stacking-ensemble models
 
 **AI_models_Final** => Contains the model configuration of SVM regressor, XGBoost regressor, CNN, and Hybrid Stacking-Ensemble model [Base models (SVM, XGBoost) & meta-regressor models (RidgeCV, LinearRegression, DecisionTree, RandomForest, SVR, XGBoost)
 
