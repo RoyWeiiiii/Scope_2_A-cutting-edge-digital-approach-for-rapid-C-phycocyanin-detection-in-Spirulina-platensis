@@ -1,8 +1,10 @@
+# Graphical Abstract
+
+![Graphical_Abstract_V1](https://github.com/user-attachments/assets/ba934ec3-2d75-446c-aca0-6730bae7e015)
+
 # Artificial Intelligence (AI) approach for the quantification of C-phycocyanin in _Spirulina platensis_: Hybrid stacking-ensemble model based on machine learning and deep learning
 
 The rising demand for natural pigments in nutraceuticals, pharmaceuticals, and cosmetics has highlighted the need for efficient, non-destructive methods to predict C-phycocyanin (CPC) concentrations in Spirulina platensis. Conventional extraction and quantification methods are labour-intensive, environmentally harmful, and time-consuming. This study proposes a hybrid stacking-ensemble model integrating convolutional neural networks (CNN) for automated feature extraction with both Support Vector Machine (SVM) and eXtreme gradient boosting (XGBoost) as base models and multiple meta-regressor models. The meta-regressors include Ridge regression with built-in cross-validation (RidgeCV), Linear Regression (LR), Support Vector Regressor (SVR), Decision Tree (DT), Random Forest (RF), and XGBoost. The datasets comprising 11,000 images of biomass and extracted CPC were captured under varying lighting conditions and device setups to reflect real-world conditions accurately. While digital cameras achieved higher accuracy, smartphones provide competitive results under both covered and light-disturbed conditions, demonstrating smartphones' scalability for real-time applications. While XGBoost as a meta-regressor (standard deviation (Std) = 0.0052, R2Train = 0.9985, R2Val = 0.9983 with 95% confident interval (CI) [0.9979, 0.9986]), demonstrates marginal improvements over individual models such as SVM (Std = 0.0065, R2Train = 0.9975, R2Val = 0.9973 with 95% CI [0.9970, 0.9976]) and XGBoost (Std= 0.0053, R2Train = 0.9987, R2Val = 0.9982 with 95% CI [0.9978, 0.9986]), yet ensemble approach offers lower variability, reduced overfitting, enhanced stability, and generalisation. CPC datasets delivered better accuracy but were competitive against biomass datasets. Thus, biomass datasets are more feasible in real-world applications by excluding the need for extraction steps, enabling rapid, reliable, and accurate CPC concentration predictions.
-
-![Uploading Graphical_Abstract_V1.png…]()
 
 **Keywords**: _Spirulina platensis_; C-phycocyanin; Deep learning (DL); Machine learning (ML); Ensemble learning (EL); Microalgae
 
